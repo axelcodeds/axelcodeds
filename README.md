@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Axel Diego
 
-### Full-Stack Developer | Backend Engineer | Cloud & DevOps Specialist
+### Full-Stack AI Developer
 
 <p>
   <em>
