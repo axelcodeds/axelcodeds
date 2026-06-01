@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Axel Diego
+# 👋 Hi, I'm Axel DS
 
 ### Full-Stack AI Developer
 
